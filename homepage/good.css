@@ -1,0 +1,25 @@
+
+body, html {
+  height: 100%;
+  font-family: "Inconsolata", sans-serif;
+}
+
+.bgimg {
+  background-position: center;
+  background-size: cover;
+  background-image: url("picture/blog1.jpg");
+  min-height: 75%;
+}
+
+
+.center{
+  text-align: center;
+}
+h4{
+    font-weight:bold;
+    font-family:serif
+}
+img.good{
+    width:15em;
+
+}
