@@ -22,7 +22,7 @@ repository and (C) 2013 Abram Hindle, Xinrui Lu visibile in the text.
 Code is licensed under the Apache 2.0 license.
 
 project gutenberg HTML files modifications:
-1.Add <link rel="stylesheet" type="text/css" href="style.css">
+1.Add link rel="stylesheet" type="text/css" href="style.css"
 
 References:
 https://github.com/sam9116/CMPUT404-assignment-css-hell by Sam Bao sam9116
